@@ -9,3 +9,5 @@ Data Processing Course, Academic Year of 2017
 |25/08/2017|Introduction to data mining process|https://drive.google.com/file/d/0B1pT7ipINR3Td1lSMjVnNXFoVnM/view?usp=sharing|LK|
 |25/08/2017|Exploratory Data Analysis|https://drive.google.com/file/d/0B1pT7ipINR3TN2JvY3pacGRQSVU/view?usp=sharing|PK|
 
+Exploratory data analysis sample data
+https://drive.google.com/file/d/0BwKnM_XCsWszMzFlbzktSFFjQ1E/view?usp=sharing
