@@ -8,7 +8,7 @@ Data Processing Course, Academic Year of 2017
 |18/08/2017|Data types and applications of health informatics|https://drive.google.com/file/d/0B1pT7ipINR3TdkVnMm4xWkRSTFk/view?usp=sharing|AW|
 |25/08/2017|Introduction to data mining process|https://drive.google.com/file/d/0B1pT7ipINR3Td1lSMjVnNXFoVnM/view?usp=sharing|LK|
 |25/08/2017|Exploratory Data Analysis|https://drive.google.com/file/d/0B1pT7ipINR3TN2JvY3pacGRQSVU/view?usp=sharing|PK|
-|25/08/2017|**Assignment I** (submit in class)||
+|25/08/2017|**Assignment I** (submit in class)|https://github.com/likit/mtid310-2017/blob/master/assignment1.md|
 
 # Sample data for downloads
 - Exploratory data analysis sample data I https://drive.google.com/file/d/0BwKnM_XCsWszMzFlbzktSFFjQ1E/view?usp=sharing
