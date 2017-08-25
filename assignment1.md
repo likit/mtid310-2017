@@ -2,7 +2,7 @@
 ## Exploratory data analysis
 
 ## Instruction
-- Download the data
+- Download the data from https://drive.google.com/file/d/0B1pT7ipINR3TZmdBTHNlc2ZuREU/view?usp=sharing
 - Create a new worksheet and name it students
 - Create columns for name, studentID
 - Create a new worksheet and name it summary
