@@ -11,7 +11,7 @@ Data Processing Course, Academic Year of 2017
 |25/08/2017||**Assignment I** (submit in class)|https://github.com/likit/mtid310-2017/blob/master/assignment1.md||
 |1/09/2017|316|Introduction to data preprocessing and data analytics using MS Excel|https://drive.google.com/file/d/0B1pT7ipINR3TdmRZZEpGX1V5ZzQ/view?usp=sharing|LP|
 |8/09/2017|316|MS Excel data analysis II||LP|
-|22/09/2017|316|MS Excel data analysis III||LP|
+|22/09/2017|316|MS Excel data analysis III|https://drive.google.com/file/d/0B1pT7ipINR3TSExyckMzdE0zdmM/view?usp=sharing|LP|
 
 # Sample data for downloads
 - Exploratory data analysis sample data I https://drive.google.com/file/d/0BwKnM_XCsWszMzFlbzktSFFjQ1E/view?usp=sharing
@@ -19,3 +19,4 @@ Data Processing Course, Academic Year of 2017
 - Data preprocessing sample data I https://drive.google.com/file/d/0B1pT7ipINR3TMkZaaFhXa044cmc/view?usp=sharing
 - Data preprocessing sample data II https://drive.google.com/file/d/0B1pT7ipINR3Tc0FhY0hTanpyOTQ/view?usp=sharing
 - Data processing sample data II https://drive.google.com/file/d/0B1pT7ipINR3TcXRod2tlZkx0RjQ/view?usp=sharing
+- Data processing sample data III https://drive.google.com/file/d/0B1pT7ipINR3TRWIyM2JwbGFTbU0/view?usp=sharing
