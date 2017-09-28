@@ -12,7 +12,7 @@ Data Processing Course, Academic Year of 2017
 |1/09/2017|316|Introduction to data preprocessing and data analytics using MS Excel|https://drive.google.com/file/d/0B1pT7ipINR3TdmRZZEpGX1V5ZzQ/view?usp=sharing|LP|
 |8/09/2017|316|MS Excel data analysis II||LP|
 |22/09/2017|316|MS Excel data analysis III|https://drive.google.com/file/d/0B1pT7ipINR3TSExyckMzdE0zdmM/view?usp=sharing|LP|
-|29/09/2017|316|Introduction to machine learning techniques||AW|
+|29/09/2017|316|Introduction to machine learning techniques|https://drive.google.com/file/d/0B1pT7ipINR3TYUJhVXgwMXo5Y3M/view?usp=sharing|AW|
 |4/10/2017|316|Data ethics and anonymization||LP|
 |6/10/2017|316|Machine learning in healthcare||AW|
 
