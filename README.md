@@ -15,6 +15,7 @@ Data Processing Course, Academic Year of 2017
 |29/09/2017|316|Introduction to machine learning techniques|https://drive.google.com/file/d/0B1pT7ipINR3TYUJhVXgwMXo5Y3M/view?usp=sharing|AW|
 |4/10/2017|316|Data ethics and anonymization|https://drive.google.com/file/d/0B1pT7ipINR3TQVhGOXRudGk0b0E/view?usp=sharing|LP|
 |6/10/2017|316|Machine learning in healthcare||AW|
+|20/10/2017|316,509|Midterm exam|https://drive.google.com/file/d/0B1pT7ipINR3TNzB1ZG9RR293eUU/view?usp=sharing|||
 
 # Sample data for downloads
 - Exploratory data analysis sample data I https://drive.google.com/file/d/0BwKnM_XCsWszMzFlbzktSFFjQ1E/view?usp=sharing
