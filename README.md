@@ -17,7 +17,7 @@ Data Processing Course, Academic Year of 2017
 |6/10/2017|316|Machine learning in healthcare||AW|
 |20/10/2017|316,509|Midterm exam|https://drive.google.com/file/d/0B1pT7ipINR3TNzB1ZG9RR293eUU/view?usp=sharing|||
 |27/10/2017|316|Introduction to database|https://drive.google.com/file/d/0B1pT7ipINR3TRVQ1aWRONVJuZm8/view?usp=sharing|LP|
-|8/11/2017|316|Data communication||PM|
+|8/11/2017|316|Data communication|https://drive.google.com/file/d/1hyfHjZ2_Yy7Qj-3eXLpxDkaLstBnQq7U/view?usp=sharing|PM|
 
 # Sample data for downloads
 - Exploratory data analysis sample data I https://drive.google.com/file/d/0BwKnM_XCsWszMzFlbzktSFFjQ1E/view?usp=sharing
@@ -31,3 +31,6 @@ Data Processing Course, Academic Year of 2017
 
 # Midterm exam downloads
 https://drive.google.com/file/d/0B1pT7ipINR3TeHdhNEwtMVBHbm8/view?usp=sharing
+
+# เฉลย ข้อสอบกลางภาค
+https://drive.google.com/file/d/1lJLDdIdCDU20PLuHTQHqto9lpndDnVTg/view?usp=sharing
