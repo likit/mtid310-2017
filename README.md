@@ -29,8 +29,11 @@ Data Processing Course, Academic Year of 2017
 - Machine learning sample data I https://drive.google.com/file/d/0B1pT7ipINR3TT0NURDFiY1pGWUk/view?usp=sharing
 - Data anonymization sample data https://drive.google.com/file/d/0B1pT7ipINR3Tbkt0aEZtQ3dOdUU/view?usp=sharing
 
-# Midterm exam downloads
+# Midterm exam download
 https://drive.google.com/file/d/0B1pT7ipINR3TeHdhNEwtMVBHbm8/view?usp=sharing
 
 # เฉลย ข้อสอบกลางภาค
 https://drive.google.com/file/d/1lJLDdIdCDU20PLuHTQHqto9lpndDnVTg/view?usp=sharing
+
+# Final exam download
+https://drive.google.com/file/d/1J0tQz4tlME_TCkQeUFHHvgqjbL6L3HdA/view?usp=sharing
